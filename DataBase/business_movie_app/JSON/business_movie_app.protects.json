@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "652d03ca0f509644d513a4e2"
+  },
+  "numbersOfCalls": 25,
+  "currentTimeCall": {
+    "$date": "2023-10-16T09:35:06.880Z"
+  },
+  "user_id": "64c01b811e07c84457bd1471"
+}]

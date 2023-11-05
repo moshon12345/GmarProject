@@ -1,0 +1,162 @@
+[{
+  "_id": {
+    "$oid": "652ae4456654e5d50fc307ed"
+  },
+  "title": "The Equalizer 3",
+  "grade": 9,
+  "overview": "robert mccall finds himself at home in southern italy but he discovers his friends are under the control of local crime bosses. as events turn deadly, mccall knows what he has to do: become his friends' protector by taking on the mafia.",
+  "original_language": "en",
+  "API_IMG": "https://image.tmdb.org/t/p/w500//b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",
+  "release_date": {
+    "$date": "2023-08-30T00:00:00.000Z"
+  },
+  "userIsAdmin": true,
+  "user_id": {
+    "$oid": "64c01b811e07c84457bd1471"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652ae46e6654e5d50fc307fb"
+  },
+  "title": "Nowhere",
+  "grade": 7,
+  "overview": "a young pregnant woman named mia escapes from a country at war by hiding in a maritime container aboard a cargo ship. after a violent storm, mia gives birth to the child while lost at sea, where she must fight to survive.",
+  "original_language": "es",
+  "API_IMG": "https://image.tmdb.org/t/p/w500//uldNFFKNXNvwss0MIZErMSFkBJZ.jpg",
+  "release_date": {
+    "$date": "2023-09-29T00:00:00.000Z"
+  },
+  "userIsAdmin": true,
+  "user_id": {
+    "$oid": "64c01b811e07c84457bd1471"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652ae47d6654e5d50fc30806"
+  },
+  "title": "Retribution",
+  "grade": 10,
+  "overview": "when a mysterious caller puts a bomb under his car seat, matt turner begins a high-speed chase across the city to complete a specific series of tasks. with his kids trapped in the back seat and a bomb that will explode if they get out of the car, a normal commute becomes a twisted game of life or death as matt follows the stranger's increasingly dangerous instructions in a race against time to save his family.",
+  "original_language": "en",
+  "API_IMG": "https://image.tmdb.org/t/p/w500//oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg",
+  "release_date": {
+    "$date": "2023-08-23T00:00:00.000Z"
+  },
+  "userIsAdmin": true,
+  "user_id": {
+    "$oid": "64c01b811e07c84457bd1471"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6536c45a9b7ef52505eb9006"
+  },
+  "title": "Mortal Kombat Legends: Cage Match",
+  "grade": 10,
+  "overview": "in 1980s hollywood, action star johnny cage is looking to become an a-list actor. but when his costar, jennifer, goes missing from set, johnny finds himself thrust into a world filled with shadows, danger, and deceit. as he embarks on a bloody journey, johnny quickly discovers the city of angels has more than a few devils in its midst.",
+  "original_language": "en",
+  "API_IMG": "https://image.tmdb.org/t/p/w500//1eKWqTHp4OgKdx1QX1O9LxKHr1M.jpg",
+  "release_date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "userIsAdmin": false,
+  "user_id": {
+    "$oid": "6534000dc2ed0d2ddb798fd2"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6536c4d692b9f1a6b5379fe5"
+  },
+  "title": "Race to the Summit",
+  "grade": 8,
+  "overview": "fearless alpine climbers ueli steck and dani arnold enter into a death-defying rivalry to set speed records on the swiss alps' great north faces.",
+  "original_language": "de",
+  "API_IMG": "https://image.tmdb.org/t/p/w500//tI9ybrWLiVLljLsNoqEjQF36oG4.jpg",
+  "release_date": {
+    "$date": "2023-10-04T00:00:00.000Z"
+  },
+  "userIsAdmin": false,
+  "user_id": {
+    "$oid": "6534000dc2ed0d2ddb798fd2"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6536c59d92b9f1a6b537a006"
+  },
+  "title": "The Equalizer 3",
+  "grade": 9,
+  "overview": "robert mccall finds himself at home in southern italy but he discovers his friends are under the control of local crime bosses. as events turn deadly, mccall knows what he has to do: become his friends' protector by taking on the mafia.",
+  "original_language": "en",
+  "API_IMG": "https://image.tmdb.org/t/p/w500//b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",
+  "release_date": {
+    "$date": "2023-08-30T00:00:00.000Z"
+  },
+  "userIsAdmin": false,
+  "user_id": {
+    "$oid": "6534000dc2ed0d2ddb798fd2"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6544e69508b259a1cc116cc4"
+  },
+  "title": "Muzzle",
+  "grade": 9,
+  "overview": "lapd k-9 officer jake rosser has just witnessed the shocking murder of his dedicated partner by a mysterious assailant. as he investigates the shooter’s identity, he uncovers a vast conspiracy that has a chokehold on the city in this thrilling journey through the tangled streets of los angeles and the corrupt bureaucracy of the lapd.",
+  "original_language": "en",
+  "API_IMG": "https://image.tmdb.org/t/p/w500//qXChf7MFL36BgoLkiB3BzXiwW82.jpg",
+  "release_date": {
+    "$date": "2023-09-29T00:00:00.000Z"
+  },
+  "userIsAdmin": false,
+  "user_id": {
+    "$oid": "6544e66908b259a1cc116caf"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65477be065c106ed2af66902"
+  },
+  "title": "Five Nights at Freddy's",
+  "grade": 8,
+  "overview": "recently fired and desperate for work, a troubled young man named mike agrees to take a position as a night security guard at an abandoned theme restaurant: freddy fazbear's pizzeria. but he soon discovers that nothing at freddy's is what it seems.",
+  "original_language": "en",
+  "API_IMG": "https://image.tmdb.org/t/p/w500//A4j8S6moJS2zNtRR8oWF08gRnL5.jpg",
+  "release_date": {
+    "$date": "2023-10-25T00:00:00.000Z"
+  },
+  "userIsAdmin": false,
+  "user_id": {
+    "$oid": "6537d6fac6bcdac9c1e5414b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6547899a0e227b3ba91ee500"
+  },
+  "title": "Mission: Impossible - Dead Reckoning Part One",
+  "grade": 7,
+  "overview": "ethan hunt and his imf team embark on their most dangerous mission yet: to track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. with control of the future and the world's fate at stake and dark forces from ethan's past closing in, a deadly race around the globe begins. confronted by a mysterious, all-powerful enemy, ethan must consider that nothing can matter more than his mission—not even the lives of those he cares about most.",
+  "original_language": "en",
+  "API_IMG": "https://image.tmdb.org/t/p/w500//NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+  "release_date": {
+    "$date": "2023-07-08T00:00:00.000Z"
+  },
+  "userIsAdmin": false,
+  "user_id": {
+    "$oid": "653fffd3ed388c39c3b55ea7"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,342 @@
+[{
+  "_id": {
+    "$oid": "64c01b811e07c84457bd1471"
+  },
+  "name": {
+    "first": "aki",
+    "middle": "",
+    "last": "user",
+    "_id": {
+      "$oid": "64c174739aed892d67583be0"
+    }
+  },
+  "phone": "050-0000000",
+  "email": "admin@gmail.com",
+  "password": "$2a$10$nc5tMxI5yO74uIuHlakIkuPNiaRZWqDE5gkOO0rvRKVJa4za3zJJq",
+  "image": {
+    "url": "https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png",
+    "alt": "business card image",
+    "_id": {
+      "$oid": "64c174739aed892d67583be1"
+    }
+  },
+  "address": {
+    "state": "not defined",
+    "country": "israel",
+    "city": "tel-aviv",
+    "street": "magnive",
+    "houseNumber": 5,
+    "zip": 0,
+    "_id": {
+      "$oid": "64c174739aed892d67583be2"
+    }
+  },
+  "isAdmin": true,
+  "isBusiness": true,
+  "createdAt": {
+    "$date": "2023-05-26T12:00:49.497Z"
+  },
+  "__v": 0,
+  "acceptedVotes": 15,
+  "isUserSourceAdmin": true
+},
+{
+  "_id": {
+    "$oid": "652d5cfac2307405d96c04f0"
+  },
+  "name": {
+    "first": "ssss",
+    "middle": "ssss",
+    "last": "ssss",
+    "_id": {
+      "$oid": "652d5cfac2307405d96c04f1"
+    }
+  },
+  "phone": "098765431",
+  "email": "ssss@ssss.com",
+  "acceptedVotes": 10,
+  "isUserSourceAdmin": false,
+  "acceptedCallPerDay": 1000,
+  "numbersOfCallsInLast24H": 0,
+  "password": "$2a$10$rW43B4qr1Q0zMoYOHmFmC.vj1u.kltAtbQAPEFahXA3dsLtNETjda",
+  "image": {
+    "url": "https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png",
+    "alt": "business movie image",
+    "_id": {
+      "$oid": "652d5cfac2307405d96c04f2"
+    }
+  },
+  "address": {
+    "state": "not defined",
+    "country": "ssss",
+    "city": "ssss",
+    "street": "ssss",
+    "houseNumber": 3,
+    "zip": 3,
+    "_id": {
+      "$oid": "652d5cfac2307405d96c04f3"
+    }
+  },
+  "isAdmin": false,
+  "isBusiness": false,
+  "dateOfStartCounting": {
+    "$date": "2023-10-16T15:55:38.000Z"
+  },
+  "lastCallOfUser": {
+    "$date": "2023-10-16T15:55:38.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-10-16T15:55:38.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6534000dc2ed0d2ddb798fd2"
+  },
+  "name": {
+    "first": "mosh",
+    "middle": "mosh",
+    "last": "mosh",
+    "_id": {
+      "$oid": "6534000dc2ed0d2ddb798fd3"
+    }
+  },
+  "phone": "0987654321",
+  "email": "gagnovk@gmail.com",
+  "acceptedVotes": 5,
+  "isUserSourceAdmin": false,
+  "acceptedCallPerDay": 1000,
+  "numbersOfCallsInLast24H": 0,
+  "password": "$2a$10$2ckxhNNMJaQwXgund5iNkunaqLIxTNFpHImcVg32ByhiaVRTS.Juy",
+  "image": {
+    "url": "https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png",
+    "alt": "business movie image",
+    "_id": {
+      "$oid": "6534000dc2ed0d2ddb798fd4"
+    }
+  },
+  "address": {
+    "state": "mosh",
+    "country": "mosh",
+    "city": "mosh",
+    "street": "mosh",
+    "houseNumber": 1,
+    "zip": 1,
+    "_id": {
+      "$oid": "6534000dc2ed0d2ddb798fd5"
+    }
+  },
+  "isAdmin": false,
+  "isBusiness": false,
+  "dateOfStartCounting": {
+    "$date": "2023-10-21T16:45:01.000Z"
+  },
+  "lastCallOfUser": {
+    "$date": "2023-10-21T16:45:01.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-10-21T16:45:01.585Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6536c8ce92b9f1a6b537a066"
+  },
+  "name": {
+    "first": "zzzz",
+    "middle": "zzzz",
+    "last": "zzzz",
+    "_id": {
+      "$oid": "6536c8ce92b9f1a6b537a067"
+    }
+  },
+  "phone": "098765431",
+  "email": "zzzz@zzzz.com",
+  "acceptedVotes": 5,
+  "isUserSourceAdmin": false,
+  "acceptedCallPerDay": 1000,
+  "numbersOfCallsInLast24H": 0,
+  "password": "$2a$10$xBZAflOpwDF.DWNdpxaXfeBiOq3Rr7IlmUy7aBqyurgr/DW2q757m",
+  "image": {
+    "url": "https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png",
+    "alt": "business movie image",
+    "_id": {
+      "$oid": "6536c8ce92b9f1a6b537a068"
+    }
+  },
+  "address": {
+    "state": "not defined",
+    "country": "zzzz",
+    "city": "zzzz",
+    "street": "zzzz",
+    "houseNumber": 11,
+    "zip": 11,
+    "_id": {
+      "$oid": "6536c8ce92b9f1a6b537a069"
+    }
+  },
+  "isAdmin": false,
+  "isBusiness": false,
+  "dateOfStartCounting": {
+    "$date": "2023-10-23T19:26:06.000Z"
+  },
+  "lastCallOfUser": {
+    "$date": "2023-10-23T19:26:06.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-10-23T19:26:06.768Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6537cfdc6f0354ece54068b7"
+  },
+  "name": {
+    "first": "xxxx",
+    "middle": "xxxx",
+    "last": "xxxx",
+    "_id": {
+      "$oid": "6537cfdc6f0354ece54068b8"
+    }
+  },
+  "phone": "098765432q",
+  "email": "gagnov@gmail.com",
+  "acceptedVotes": 5,
+  "isUserSourceAdmin": false,
+  "acceptedCallPerDay": 100,
+  "numbersOfCallsInLast24H": 0,
+  "password": "$2a$10$FlnKjFzCS9phePOisVC.7OtA5QCk6/WDl3brqbEUlS5t3w49ou.lC",
+  "image": {
+    "url": "https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png",
+    "alt": "business movie image",
+    "_id": {
+      "$oid": "6537cfdc6f0354ece54068b9"
+    }
+  },
+  "address": {
+    "state": "not defined",
+    "country": "xxxx",
+    "city": "xxxx",
+    "street": "xxxx",
+    "houseNumber": 1,
+    "zip": 2,
+    "_id": {
+      "$oid": "6537cfdc6f0354ece54068ba"
+    }
+  },
+  "isAdmin": false,
+  "isBusiness": false,
+  "dateOfStartCounting": {
+    "$date": "2023-10-24T14:08:28.000Z"
+  },
+  "lastCallOfUser": {
+    "$date": "2023-10-24T14:08:28.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-10-24T14:08:28.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6537d6fac6bcdac9c1e5414b"
+  },
+  "name": {
+    "first": "zzzz",
+    "middle": "zzzz",
+    "last": "zzzz",
+    "_id": {
+      "$oid": "6537d6fac6bcdac9c1e5414c"
+    }
+  },
+  "phone": "098765432345",
+  "email": "moviesvotes@gmail.com",
+  "acceptedVotes": 5,
+  "isUserSourceAdmin": false,
+  "acceptedCallPerDay": 1000,
+  "numbersOfCallsInLast24H": 0,
+  "password": "$2a$10$c2TJv.5pg2DgzTZNSOInC.zTjOVBWyLDQeHJRCqwswkaNVgpwPa7y",
+  "image": {
+    "url": "https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png",
+    "alt": "business movie image",
+    "_id": {
+      "$oid": "6537d6fac6bcdac9c1e5414d"
+    }
+  },
+  "address": {
+    "state": "not defined",
+    "country": "zzzz",
+    "city": "zzzz",
+    "street": "zzzz",
+    "houseNumber": 1,
+    "zip": 5,
+    "_id": {
+      "$oid": "6537d6fac6bcdac9c1e5414e"
+    }
+  },
+  "isAdmin": true,
+  "isBusiness": false,
+  "dateOfStartCounting": {
+    "$date": "2023-10-24T14:38:50.000Z"
+  },
+  "lastCallOfUser": {
+    "$date": "2023-10-24T14:38:50.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-10-24T14:38:50.383Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "653fffd3ed388c39c3b55ea7"
+  },
+  "name": {
+    "first": "ffff",
+    "middle": "fff",
+    "last": "ffff",
+    "_id": {
+      "$oid": "653fffd3ed388c39c3b55ea8"
+    }
+  },
+  "phone": "096543213",
+  "email": "xxxxx@gmail.com",
+  "acceptedVotes": 5,
+  "isUserSourceAdmin": false,
+  "acceptedCallPerDay": 100,
+  "numbersOfCallsInLast24H": 0,
+  "password": "$2a$10$hb3M8Bp7jwR0CQLDMSac5uXhyYbXOFh3KD1q6jtjbshoy1MrE2.7S",
+  "image": {
+    "url": "https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png",
+    "alt": "business movie image",
+    "_id": {
+      "$oid": "653fffd3ed388c39c3b55ea9"
+    }
+  },
+  "address": {
+    "state": "ff",
+    "country": "ffff",
+    "city": "fff",
+    "street": "fff",
+    "houseNumber": 1,
+    "zip": 1,
+    "_id": {
+      "$oid": "653fffd3ed388c39c3b55eaa"
+    }
+  },
+  "isAdmin": false,
+  "isBusiness": false,
+  "dateOfStartCounting": {
+    "$date": "2023-10-30T19:11:15.000Z"
+  },
+  "lastCallOfUser": {
+    "$date": "2023-10-30T19:11:15.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-10-30T19:11:15.199Z"
+  },
+  "__v": 0
+}]
